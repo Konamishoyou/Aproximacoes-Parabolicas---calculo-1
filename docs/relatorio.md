@@ -36,7 +36,10 @@ Este relatório apresenta a análise de quatro diferentes métodos de aproximaç
 
 ## Resultados
 
-[Inserir tabelas de comparação e gráficos]
+| t | N(t) | f(t) | Erro Abs | Erro Rel(%) |
+| --- | --- | ---- | -------- | ----------- |
+| 0 | 21.5 | 28.8000 | 7.3000 | 33.95% |
+
 
 ## Conclusão
 
